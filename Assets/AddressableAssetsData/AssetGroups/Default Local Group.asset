@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5eb5cab13fad6ec42baf3f11f040cb34
+  m_SerializeEntries:
+  - m_GUID: fde6b220f280b6e40ac8c72af6974953
+    m_Address: Assets/Game/Prefabs/LudoBoard.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16fa7c5a45448b04db70246fd0478122
+    m_Address: Assets/Game/Prefabs/ChipItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ade944a99a69fb4d8b3fa866f714d86
+    m_Address: Assets/Game/Prefabs/DiceRollUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ea86d76c3bdb39f4e8cb64bb26a93c2d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3cba0e59a6f33b14e8ac809429145cbf, type: 2}
+    - {fileID: 11400000, guid: 3fe699420c6c25743b3f2866dfa542e4, type: 2}
